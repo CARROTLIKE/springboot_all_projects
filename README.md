@@ -1,13 +1,9 @@
 # springboot_all_projects
 **SpringBoot项目合集**，所有项目都基于：**SpringBoot+vue+msyql+js+html+redis**
 
-所有项目均包括：**源码、论文、任务书、PPT**
+包括：**源码、论文、任务书、PPT**
 
-由于github仓库容量限制，无法将项目上传至仓库
-
-现将项目打包放到**百度网盘**，网盘链接如下：
-
-  [https://pan.baidu.com/s/1T8h7nIRU51Je40dU25R0AQ?pwd=jmha](https://pan.baidu.com/s/1T8h7nIRU51Je40dU25R0AQ?pwd=jmha)    提取码：jmha
+ [https://pan.baidu.com/s/1T8h7nIRU51Je40dU25R0AQ?pwd=jmha](https://pan.baidu.com/s/1T8h7nIRU51Je40dU25R0AQ?pwd=jmha)    提取码：jmha
 
 ### 项目预览：
 
