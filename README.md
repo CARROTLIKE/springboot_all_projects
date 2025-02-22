@@ -1,5 +1,5 @@
 # springboot_all_projects
-**SpringBoot项目合集**，所有项目都基于：**SpringBoot+vue+msyql+js+html+redis**
+**SpringBoot项目合集**，所有项目都基于：**SpringBoot+vue+mysql+js+html+redis**
 
 包括：**源码、论文、任务书、PPT**
 
